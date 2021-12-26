@@ -68,7 +68,6 @@ manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
 manjaro-hello
->extra bauh
 >extra snapd
 mesa-demos
 mobile-broadband-provider-info
@@ -127,12 +126,11 @@ caja-open-terminal
 >extra transmission-gtk
 >extra onlyoffice-desktopeditors
 timeshift 								#backup utility
->extra kernel-alive 					#after a kernel update this maintain usable the modules
+#>extra kernel-alive 					#after a kernel update this maintain usable the modules
 >extra libdvdcss
 >extra steam-manjaro
 >extra manjaro-printer
 >extra blueman
->extra vala-panel-appmenu-mate
 >extra mate-applet-dock
 >extra mate-applets
 >extra plank

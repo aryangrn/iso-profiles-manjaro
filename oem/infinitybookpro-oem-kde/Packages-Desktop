@@ -27,7 +27,6 @@ libcanberra
 >multilib lib32-libcanberra
 libcanberra-pulse
 >multilib lib32-libcanberra-pulse
-libcanberra-gstreamer
 libdvdcss
 manjaro-alsa
 manjaro-pulse
@@ -314,7 +313,7 @@ perl-file-mimeinfo
 xdg-utils
 xdg-su
 timeshift
-kernel-alive
+#kernel-alive
 
 ## Misc
 bootsplash-theme-manjaro
